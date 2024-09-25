@@ -13,7 +13,7 @@ Linux systems:
 ```bash
 sudo apt-get update
 sudo apt-get install openjdk-11-jre
-java -jar node/target/tuna-all*.jar path/to/config/waves-{network}.conf
+java -jar node/target/tuna-all*.jar path/to/config/tuna-{network}.conf
 ```
 
 Mac systems (assuming already installed homebrew):
