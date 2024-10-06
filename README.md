@@ -6,7 +6,7 @@
 A quick introduction of the minimal setup you need to get a running node. 
 
 *Prerequisites:*
-- - `tuna-all*.jar` file from [releases](https://github.com/tunacoinnet/tuna/releases) 
+- - `tuna-all*.jar` and `tuna.conf` files from [releases](https://github.com/tunacoinnet/tuna/releases) 
 
 Linux systems:
 ```bash
