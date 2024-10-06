@@ -12,16 +12,16 @@ Linux systems:
 ```bash
 sudo apt-get update
 sudo apt-get install openjdk-11-jre
-java -jar node/target/tuna-all*.jar path/to/config/tuna-{network}.conf
+java -jar node/target/tuna-all*.jar path/to/config/tuna.conf
 ```
 
 Mac systems (assuming already installed homebrew):
 ```bash
 brew cask install adoptopenjdk/openjdk/adoptopenjdk11
-java -jar node/target/tuna-all*.jar path/to/config/tuna-{network}.conf
+java -jar node/target/tuna-all*.jar path/to/config/tuna.conf
 ```
 
 Windows systems (assuming already installed OpenJDK 11):
 ```bash
-java -jar node/target/tuna-all*.jar path/to/config/tuna-{network}.conf
+java -jar node/target/tuna-all*.jar path/to/config/tuna.conf
 ```
